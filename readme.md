@@ -30,7 +30,7 @@ _LearnEase is an innovative virtual classroom application that takes video confe
 - Change the current working directory to where you want to store the LearnEase backend project.
 - Run the following command to clone the repository:
 ```bash
-git clone https://github.com/shahsad-kp/LearnEase-Server.git
+git clone https://github.com/abc6xyz/LearnEase-Server.git
 ```
 
 #### 3 Create a Virtual Environment:
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ```
 
 #### 5 Environment Variables:
-d- Refer [environment variables](https://github.com/shahsad-kp/LearnEase-Server#environment-variables) for setting up the required environment variables for the LearnEase backend.
+d- Refer [environment variables](https://github.com/abc6xyz/LearnEase-Server#environment-variables) for setting up the required environment variables for the LearnEase backend.
 
 
 #### 6 Apply Database Migrations:
@@ -110,7 +110,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Feedback
 
-If you have any feedback, please reach me at shahsadkpklr@gmail.com or connect me at [LinkedIn](https://www.linkedin.com/in/shahsad-kp/)
+If you have any feedback, please reach me at byte11101100@gmail.com or connect me at [LinkedIn](https://www.linkedin.com/)
 
 
 ## Support
